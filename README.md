@@ -1,1 +1,1 @@
-# Tomato-Leaf-Disease-Detection---Major-Project
+# Tomato-Leaf-Disease-Detection-Major-Project
