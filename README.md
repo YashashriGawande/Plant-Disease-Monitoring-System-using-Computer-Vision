@@ -1,4 +1,4 @@
-# Tomato-Leaf-Disease-Detection-Major-Project
+# Plant Disease Monitoring System Using Computer Vision 
 
 # Introduction
 
